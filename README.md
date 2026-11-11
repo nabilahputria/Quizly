@@ -57,17 +57,3 @@
 * **Figma Prototype:** [Link Prototype QUIZLY  di Figma](https://figma.com) *(Tempelkan link Figma kamu di sini)*
 
 ---
-
-## 🎤 Panduan Presentasi (5 Menit)
-
-Saat melakukan demonstrasi di depan Asisten Lab (Muhammad Dzakwan Attaqiy / DZK), ikuti struktur penjelasan berikut:
-
-1. **Fungsionalitas Aplikasi (1.5 Menit):**
-   * Demo alur mulai dari **Login** $\rightarrow$ **Beranda** (pilihan kuis per mata kuliah) $\rightarrow$ **Layar Kuis** $\rightarrow$ **Layar Hasil & Pembahasan** $\rightarrow$ **Riwayat** $\rightarrow$ **Profil**.
-2. **Responsivitas Aplikasi (1 Menit):**
-   * Tunjukkan aplikasi saat dirotasi ke orientasi **Landscape** atau dijalankan di browser **Chrome (Web)** untuk memperlihatkan pembagian layout 2 kolom adaptif (`LayoutBuilder`).
-3. **Alur & Implementasi Kode (1.5 Menit):**
-   * Jelaskan peran `QuizProvider` dalam menjaga data agar tidak reset saat rotasi layar.
-   * Tunjukkan pemisahan reusable widget (`custom_button.dart`, `option_card.dart`, `responsive_wrapper.dart`).
-4. **Penjelasan Fitur Tambahan (1 Menit):**
-   * Demokan pengubahan **Dark/Light Mode** dan sistem filter riwayat kuis per mata kuliah.

@@ -54,7 +54,7 @@
 | *(Tampilkan Screenshot Hasil)* | *(Tampilkan Screenshot Riwayat)* | *(Tampilkan Screenshot Profil)* |
 
 ### 3. Link Prototype / Mockup
-* **Figma Prototype:** [Link Prototype Kuisin di Figma](https://figma.com) *(Tempelkan link Figma kamu di sini)*
+* **Figma Prototype:** [Link Prototype QUIZLY  di Figma](https://figma.com) *(Tempelkan link Figma kamu di sini)*
 
 ---
 
